@@ -1,0 +1,1130 @@
+[
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/time_header_label.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/time_header_label.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_selected_date.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_selected_date.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_done_button.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_done_button.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/activity_gallery.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/gridview_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/gridview_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/fragment_screen_slide_page.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/simplegallery/2.0.0/res/layout/fragment_screen_slide_page.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/password_request_dialog_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/password_request_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/note_layout_widget.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/note_layout_widget.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/activity_password.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/activity_password.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/dialog_backup_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/dialog_backup_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/crouton_handle.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/crouton_handle.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_simplelist_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_simplelist_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/popup_sketch_eraser.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/popup_sketch_eraser.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/note_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/note_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/dialog_location.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/dialog_location.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/drawer_category_list_header.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/drawer_category_list_header.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/recurrencepicker_end_text.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/layout/recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/recurrencepicker.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/layout/recurrencepicker.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_colorchooser_grid.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_stub_colorchooser_grid.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/recurrencepicker_freq_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/layout/recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/__leak_canary_leak_row.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/widget_layout_list.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/widget_layout_list.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/popup_sketch_eraser.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/popup_sketch_eraser.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/simple_text_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/simple_text_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/intro_layout2.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/layout/intro_layout2.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_colorchooser_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_stub_colorchooser_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/widget_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_preference_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_preference_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_input.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/time_picker_dialog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/intro_slide.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/intro_slide.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_colorchooser_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_stub_colorchooser_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/fab.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/fab.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/__leak_canary_display_leak.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/rate_app_dialog_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/rate_app_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/activity_stats.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/activity_stats.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/recurrencepicker_end_text.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/layout/recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/widget_layout_toolbar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/widget_layout_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/fragment_detail_attachments.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/fragment_detail_attachments.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/fragment_sketch.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/fragment_sketch.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/gridview_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/gridview_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/fragment_detail_content.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/fragment_detail_content.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/widget_layout_list.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/widget_layout_list.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/intro_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/layout/intro_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/crouton_handle.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/crouton_handle.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/simple_text_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/simple_text_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/__leak_canary_ref_row.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/fab.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/fab.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_colorchooser.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_dialog_colorchooser.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/note_layout_widget.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/note_layout_widget.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/__leak_canary_ref_row.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/recurrencepicker.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/layout/recurrencepicker.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/__leak_canary_display_leak.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/note_layout_expanded.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/note_layout_expanded.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/dialog_remove_checklist_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/dialog_remove_checklist_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/password_buttons.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/password_buttons.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/fragment_sketch.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/fragment_sketch.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/intro_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/layout/intro_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_selected_date.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_selected_date.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/drawer_category_list_footer.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/drawer_category_list_footer.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_dialog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/time_header_label.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/time_header_label.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_inputpref.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_stub_inputpref.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_colorchooser_grid.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_stub_colorchooser_grid.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/password_reset_dialog_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/password_reset_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/widget_layout_toolbar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/widget_layout_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/fragment_detail.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/drawer_category_list_footer.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/drawer_category_list_footer.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_view_animator.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_view_animator.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/fragment_screen_slide_page.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/simplegallery/2.0.0/res/layout/fragment_screen_slide_page.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/undobar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/undobar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/attachment_dialog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/attachment_dialog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/activity_category.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/fragment_detail_content.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/fragment_detail_content.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/activity_widget_configuration.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/activity_widget_configuration.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/fragment_detail_attachments.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/fragment_detail_attachments.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_input.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/dialog_backup_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/dialog_backup_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/fragment_detail.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/time_picker_dialog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_header_view.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_header_view.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/activity_stats.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/activity_stats.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/undobar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/undobar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/image_and_text_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/image_and_text_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/activity_widget_configuration.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/activity_widget_configuration.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_stub_titleframe.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/image_and_text_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/image_and_text_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/dialog_location.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/dialog_location.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_preference_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_preference_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/note_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/note_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/year_label_text_view.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/activity_password.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/activity_password.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/popup_sketch_stroke.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/popup_sketch_stroke.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/rate_app_dialog_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/rate_app_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/popup_sketch_stroke.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/popup_sketch_stroke.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/dialog_remove_checklist_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/dialog_remove_checklist_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/note_layout_expanded.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/note_layout_expanded.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/activity_changelog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/activity_changelog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/checklistview_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/checklistview/3.1.3/res/layout/checklistview_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/__leak_canary_ref_top_row.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/intro_layout2.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/layout/intro_layout2.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/widget_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/drawer_category_list_header.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/drawer_category_list_header.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_simplelist_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_simplelist_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_header_view.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_header_view.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_colorchooser.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_dialog_colorchooser.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/widget_layout_small.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/widget_layout_small.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_done_button.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_done_button.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/attachment_dialog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/attachment_dialog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/password_reset_dialog_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/password_reset_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/__leak_canary_leak_row.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/year_label_text_view.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/password_buttons.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/password_buttons.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_dialog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/date_picker_view_animator.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/res/layout/date_picker_view_animator.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/__leak_canary_ref_top_row.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_stub_titleframe.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/recurrencepicker_freq_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/layout/recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/checklistview_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/checklistview/3.1.3/res/layout/checklistview_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/intro_slide.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/intro_slide.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/activity_category.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/widget_layout_small.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/widget_layout_small.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/password_request_dialog_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/password_request_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/activity_changelog.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/activity_changelog.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_stub_inputpref.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/res/layout/md_stub_inputpref.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/activity_gallery.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mcc262/values-mcc262.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/values-mcc262/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 62,
+                        "endOffset": 898
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mcc262/values-mcc262.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/values-mcc262/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 62,
+                        "endOffset": 898
+                    }
+                }
+            }
+        ]
+    }
+]

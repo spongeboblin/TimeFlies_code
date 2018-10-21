@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land-v21/values-land-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/values-land-v21/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 48,
+                        "endOffset": 799
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land-v21/values-land-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/values-land-v21/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 48,
+                        "endOffset": 799
+                    }
+                }
+            }
+        ]
+    }
+]

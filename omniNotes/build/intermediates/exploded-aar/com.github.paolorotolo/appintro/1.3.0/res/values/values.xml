@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/paolo/Development/library/appIntro/library/app/src/main/res/values/String.xml -->
+    <eat-comment/>
+    <string name="done_button">Done</string>
+    <string name="skip_button">Skip</string>
+</resources>

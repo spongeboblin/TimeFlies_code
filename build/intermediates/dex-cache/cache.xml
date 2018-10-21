@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_07441c5553c0fb32e13320a258e6ff9d3eaaf650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_239bf76150bf3b037e1b8f3dbfd2e4ab20cfcb18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f4e7adebf49e683db82fb6efac2caaf3d768b8d4">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-1.3_87128585f8f0f2f46107d0a0e6c393879d760eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-core/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.nhaarman.listviewanimations-lib-core-3.1.0_c3914c50acb39f536caee8d11eed4bfaa39035d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3/c5399b18a672f7973c8a9b9d6b731a3a36e590cc/leakcanary-analyzer-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5399b18a672f7973c8a9b9d6b731a3a36e590cc">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3_f1d85fed1e18bcb239de0f3fb1aac900c8287db1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_a946fa5126222f67032871d60c32523e4110b585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.1.4_9c30f9fbaf4a410b6ac28441dc39435f6264e010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/butterknife-7.0.1_e9363fb41a62b176da0aad16c1ebe7860d3d0ac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.tbruyelle.rxpermissions/rxpermissions/0.4.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b82fc27e9e6722dfd4b100a7a51b69789fdad214">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.tbruyelle.rxpermissions-rxpermissions-0.4.2_7a72bd105c22f698e5b56ae8c0cbd3235c1f450b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e84284d8fe8664063d2a228318bdddf157cc4e78">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.github.gabrielemariotti.changeloglib-changelog-2.0.0_b4545db612e3029036690f16d10be5dd96f782fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/net.lingala.zip4j/zip4j/1.3.2/4ba84e98ee017b74cb52f45962f929a221f3074c/zip4j-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ba84e98ee017b74cb52f45962f929a221f3074c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/zip4j-1.3.2_487632035ce3a2c732f03bb6f95cc96b74d5ab62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_ab07ef3ff9f32bc816a0b0b9e08b7d8ea4588833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/backport-util-concurrent/backport-util-concurrent/3.1/682f7ac17fed79e92f8e87d8455192b63376347b/backport-util-concurrent-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="682f7ac17fed79e92f8e87d8455192b63376347b">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/backport-util-concurrent-3.1_39d93ceee5c84a092ba6f3463caec332781e4eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e740f74c711c587cc6d32d37256e0e895f2cdf5c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.github.afollestad.material-dialogs-commons-0.8.5.6_1193d1ee1baca715a733094b4d4ff93ffc317815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.nhaarman.listviewanimations-lib-manipulation-3.1.0_3dc25bdd99452b77420ddbbed2ab1765f317f40a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.pushbullet/android-extensions/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d1590524e80e7dad7f7579a68d903173a8999889">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.pushbullet-android-extensions-1.0.4_517ab2a62e6643ded5156215c6443763adc10148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/io.nlopez.smartlocation/library/3.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f005bd05449fbd99a9f9baa8fa01631017bbaf8">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/io.nlopez.smartlocation-library-3.2.0_d4db1ae046acdc6b3019a32bb98ed4d87d1bf9fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/library-2.4.0_d5f90b4ced11c3a335067d35469927da4a11bbbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.pushbullet/android-extensions/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d1590524e80e7dad7f7579a68d903173a8999889">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.pushbullet-android-extensions-1.0.4_91aa3e7b5b3cc42f65f81e0d65f6fea6fd07263d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/ch.acra/acra/4.8.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="553933c766d5b677a7640ce2616577bfade1071e">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/ch.acra-acra-4.8.5_96ee5982c82426bba345726bedb56e43fda61b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/simplegallery/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="18f05fbfae0748d8db534a0e44f11466cd59e8a0">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.github.federicoiosue-simplegallery-2.0.0_69d139390e6e68356ce1f3f0d04fc0175235ee51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3/632482a61ad24b7ec864072945d221369f9a606/leakcanary-watcher-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0632482a61ad24b7ec864072945d221369f9a606">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3_7aa02c830f53207598ee45579fcd16caa4372cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_6396af9bce840dcaa7e4ca720bb622c641ff0d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="038548a73d29b98032cd0152ee2f91de25794a75">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/be.billington.calendar.recurrencepicker-library-1.1.1_cca6d12f107ab87ce543a005849173833a7fb55c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ffef2d5559ce58c59c2383f75b6d98e510cbedf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_49e757f43e9a842f95ff603f3b90309bc79d6858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_179eb0b09a1f25b3decc7211b7728458874b0d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75c54c470e19b251749e6e6c2cf3d73c0b50aa64">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.pnikosis-materialish-progress-1.5_59335da263ee5b1808cdbd8279fd44b0e0787313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/org.piwik.sdk/piwik-sdk/0.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b3f6a63027e779d794f154c83087bef0a24e7af6">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/org.piwik.sdk-piwik-sdk-0.0.4_9862de4d2fcc7a5c57fa5f9fc70123a02e6286f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0e2f4527b3f2c91c5d96c118f06e3e62db266e68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/eventbus-2.4.0_0f2a40f1ed7927e61c43bc12c037a47213f97dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.larswerkman/HoloColorPicker/1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5d5a825cbf0f67237377034c2c4edf9ba7e60fbe">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.larswerkman-HoloColorPicker-1.4_4858ad541a360bc4d642aa8a8b25bebec0b833d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_745200c1ecd9676668ceadff85cf6a1301d32eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_3a6ca43406c24bef36ed8ab0c3861aa0a60aa34c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/pixlui/2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae41cc50b87e57598120515a7a63a09213c9a28a">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.github.federicoiosue-pixlui-2.6_7dc4c7ef205f4a7c1c049c19c3e5d0581b0526b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/checklistview/3.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6c0823030c76666800cface98bce471c87fbf60">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.github.federicoiosue-checklistview-3.1.3_1b75cc694da91d6f9f757fcc148ae4ab3d508283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/de.keyboardsurfer.android.widget/crouton/1.8.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ef6e7d100ebc7feca53c3e2445b8e63ce4dea90c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/de.keyboardsurfer.android.widget-crouton-1.8.4_b81aaa468ade52e463c0d11981b5a3c5dbe963a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75c54c470e19b251749e6e6c2cf3d73c0b50aa64">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.pnikosis-materialish-progress-1.5_165843674d474e2f5d08998be7b5c733e30e21fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.artemzin.rxjava/proguard-rules/1.0.14.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="737f9105091b753ab7f312fe1fb59068a4b368de">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.artemzin.rxjava-proguard-rules-1.0.14.2_0b68a8db1f9ba858d1a41f60c5558ee1949797df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/org.mnode.ical4j/ical4j/1.0.6/deb6f8b19e76bf5bed76681fd7cc1cb450e4896c/ical4j-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="deb6f8b19e76bf5bed76681fd7cc1cb450e4896c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/ical4j-1.0.6_ef2ee3bd37500616122dd983c9cdfa8d390dc26b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.8/af3be3f74d25fc5163b54f56a0d394b462dafafd/commons-codec-1.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/commons-codec-1.8_792a5433479106818d4a9599c7219278082ae571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_c223fb954a96313ab0ad7b48227707c5962f23d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/org.ocpsoft.prettytime/prettytime/3.2.7.Final/4b216ebcf284752a40e11c39c2ea62bc45528c33/prettytime-3.2.7.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b216ebcf284752a40e11c39c2ea62bc45528c33">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/prettytime-3.2.7.Final_89907fde68e5f67720f7c1669581c416f8161672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/org.piwik.sdk/piwik-sdk/0.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b3f6a63027e779d794f154c83087bef0a24e7af6">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/org.piwik.sdk-piwik-sdk-0.0.4_87aa9d44e51af5940f743e92be7b2dce396a3726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_8385a015aadbb2d35bd270ad397a42c6326612f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="038548a73d29b98032cd0152ee2f91de25794a75">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/be.billington.calendar.recurrencepicker-library-1.1.1_8b67c4894d5f3d329e4f87abafec60489efadb91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.1.0_7179b3d8348dfffb0965d0fc807035240197ea07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.getbase-floatingactionbutton-1.10.1_2f5d125b0b0171733e6c59f2d8ce09127115df89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.larswerkman/HoloColorPicker/1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5d5a825cbf0f67237377034c2c4edf9ba7e60fbe">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.larswerkman-HoloColorPicker-1.4_ed573fd11619a70d3045c82e68f15344d4a3c1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_341a91a6095ca643326a0970a69f65dfa15f6471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.getbase-floatingactionbutton-1.10.1_c1dd179108c3500314327071ebf99b9392ee7857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.1.0_97050016fc67aa315940da60e3793dabca4dcb18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1fe5c917f8024832c4cff06597e7cad5ba2dd35c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.github.paolorotolo-appintro-1.3.0_24bfc3f87346b62f751fa9ed507c1276ce7daf6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e9e758b0c20307810a65790e70261d4705a53a9">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.github.afollestad.material-dialogs-core-0.8.5.6_711219427cebac717953654b144f7d29d4498c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/glide-3.7.0_8b7c241858ea096ad94874c0de3245f3bbc44551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_b27b14c569df29fec86cfeecb7121bdb695c9ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/de.keyboardsurfer.android.widget/crouton/1.8.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ef6e7d100ebc7feca53c3e2445b8e63ce4dea90c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/de.keyboardsurfer.android.widget-crouton-1.8.4_dced894bee536ff344357449fd775841ac05648d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.1.0_ea822161564a91c7ccc1064e4c078431bf86f0ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2fc859b7abb78d29169f6a582b45cbe1f3f1a4cc">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.github.flavienlaurent.datetimepicker-library-0.0.2_37bd6a0cc724143c1fc027172a83215221cada62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1fe5c917f8024832c4cff06597e7cad5ba2dd35c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.github.paolorotolo-appintro-1.3.0_788f92203700e8a1d19b275e8a7828d4fa72fee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.nhaarman.listviewanimations-lib-manipulation-3.1.0_c569eb5b5e7810db7bf0be813431a63c1d4f90d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_a8f33eb7a4eebbc2559dca608a65dfa4beef4a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_bb25a09534e44f74b9a3e4e060952513d7206fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.1/b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635/haha-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/haha-1.1_636263b31148d374da843874eaea8adeb504a597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.github.federicoiosue/Omni-Notes-Commons/develop-SNAPSHOT/9101986eabb75e29ff0e55ae8dc502411f44e6df/Omni-Notes-Commons-develop-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9101986eabb75e29ff0e55ae8dc502411f44e6df">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/Omni-Notes-Commons-develop-SNAPSHOT_b1d7b1c65411128ca0006ec67f6059eae19de76a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_3f446487756437ad42a29d11f667ba31f874c87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_817502de21c03f0cdb1c10e6e80ba8e5d640b87d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_41cdbe39dc95ac53f9e20e5a83065ea9f0ad81c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_99dc6704fcad5d33d2980fc21885b3798a9d52e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.0.1_f43246fe0dbcc635e04ce1b7cc19c67bec5ea606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/pixlui/2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae41cc50b87e57598120515a7a63a09213c9a28a">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.github.federicoiosue-pixlui-2.6_4e20a9e9e647c09d066fd27e06e7efa44ec8068b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3382f8e1263ff8b78f02d49edf86ae0967799780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_bfa35707062e09f55fa59c2c9367aa37d78142a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-core/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.nhaarman.listviewanimations-lib-core-3.1.0_263b648e201c8e54e771675250dd3f13f983f2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e9e758b0c20307810a65790e70261d4705a53a9">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.github.afollestad.material-dialogs-core-0.8.5.6_c6eeb83fcfffced2a55930878d1088803a5449f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_587a36b13cb6552428b2ec4d6ffc2f3b344df874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_519a33dac22adaf68cac81776f0449028f393fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.1.0_21192d23e94e0fbe93112606cd361648ba1016c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.google.android.apps.dashclock/dashclock-api/2.0.0/fe40ba5457e17502d11114f39b45e9dfe3f51c6d/dashclock-api-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe40ba5457e17502d11114f39b45e9dfe3f51c6d">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/dashclock-api-2.0.0_56e9914a70d048b28f3cce472008eaab9ebdf658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.1.4_71c72521dcf36d797b2b921c9d4aa4a98d8b9a26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.tbruyelle.rxpermissions/rxpermissions/0.4.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b82fc27e9e6722dfd4b100a7a51b69789fdad214">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.tbruyelle.rxpermissions-rxpermissions-0.4.2_296937a748f3428302958d2b5a27b055ea95f308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_d8396ba55f3e81c19311aca99a317469d6e99e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_bb732d877d19c5b8f0c9aad9b9c196d083984a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_be99cb500bea8361d7626687a3f1e3b56db07c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.jakewharton/disklrucache/2.0.2/93b399470e72c0bc8cb52379943b63c9aa586cd8/disklrucache-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/disklrucache-2.0.2_9783b2485acb28360f0a25be8805bd8ce0d5b51a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/ch.acra/acra/4.8.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="553933c766d5b677a7640ce2616577bfade1071e">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/ch.acra-acra-4.8.5_7bad1db4b714f2d456d3e97c3aa41d99295ee67f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0d39ae502810fcb858d0f6545af7412fc2173b9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/checklistview/3.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6c0823030c76666800cface98bce471c87fbf60">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.github.federicoiosue-checklistview-3.1.3_844101a7ddbfd19c36b0b8f45ae51f2d3b229568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.6/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/commons-lang-2.6_921b28a03ac43590402d768c4fdac76e4c918db1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e740f74c711c587cc6d32d37256e0e895f2cdf5c">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.github.afollestad.material-dialogs-commons-0.8.5.6_e7ec26092cf62f7b0cf8faff6eadeb8690ff360e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a91237368f543a1831221e5d12d28f9c27f93c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.0.1_ff0e463f3204aa96d2337ae0f0cf03bb75cc016b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.1.0_f8da5dfd596cc65276882fe0e51e1f47a7e26148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_43a6e5e3d97122fb2d6e720aae9281b2edbd4b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.14/898f9ab61e2a23afd615f0b0389478bec86f49f9/rxjava-1.0.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/rxjava-1.0.14_d7b0e141c6991128ea8596a02c74a9b5469d7722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/io.nlopez.smartlocation/library/3.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f005bd05449fbd99a9f9baa8fa01631017bbaf8">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/io.nlopez.smartlocation-library-3.2.0_5692ec17e1163c8353ac7795518e5a43b3a7b03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_0458528081bd43856594560ff74e7d9895936ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_f767e45d2a3dd3abec411da42c959397155eb566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.federicoiosue/simplegallery/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="18f05fbfae0748d8db534a0e44f11466cd59e8a0">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.github.federicoiosue-simplegallery-2.0.0_6e05da2b4aa4eaadc67e68dbe3094683a5f80840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/.gradle/caches/modules-2/files-2.1/com.github.federicoiosue/Springpad-Importer/1.0.1/fffd72bc9a9e8110a5202b0178d9d0846ce41bd6/Springpad-Importer-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fffd72bc9a9e8110a5202b0178d9d0846ce41bd6">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/Springpad-Importer-1.0.1_933e35b174ee00f84e5b441f05d17474281060f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f4e7adebf49e683db82fb6efac2caaf3d768b8d4">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-1.3_5ea7061a928a87a59944072995f4220808568168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_80c66eb3b59bf9e0932c679d6a6121e5f184c741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_8d959063a6f3eebc41f5bdb34e11d965fd101c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_8ddd70fc5e97fa635bbbcb3950efc5008698a27d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.flavienlaurent.datetimepicker/library/0.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2fc859b7abb78d29169f6a582b45cbe1f3f1a4cc">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.github.flavienlaurent.datetimepicker-library-0.0.2_b063adef389b075c1b76bfa94646048933d2dd56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.artemzin.rxjava/proguard-rules/1.0.14.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="737f9105091b753ab7f312fe1fb59068a4b368de">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.artemzin.rxjava-proguard-rules-1.0.14.2_c7d058f3efda668596f5eaf3cb413bf8572dfdc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e84284d8fe8664063d2a228318bdddf157cc4e78">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/pre-dexed/debug/com.github.gabrielemariotti.changeloglib-changelog-2.0.0_63431eec4d649232e25bb0fcb6c203a002cd8bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.1.0_c788c7bc2f1f8566b303eed341c24ae19bc2763c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_8e0772a3e090be95443c804287e039ab363f1c48.jar" />
+    </item>
+
+</items>

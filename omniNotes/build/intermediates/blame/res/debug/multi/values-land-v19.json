@@ -1,0 +1,164 @@
+[
+    {
+        "outputFile": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land-v19/values-land-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/values-land-v19/bools.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 45,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 51,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/values-land-v19/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 51,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 49,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/values-land-v19/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 49,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 52,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/values-land-v19/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 52,
+                        "endOffset": 905
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land-v19/values-land-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/values-land-v19/bools.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 45,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 51,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/values-land-v19/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 51,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 49,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/values-land-v19/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 49,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 52,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/values-land-v19/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 52,
+                        "endOffset": 905
+                    }
+                }
+            }
+        ]
+    }
+]

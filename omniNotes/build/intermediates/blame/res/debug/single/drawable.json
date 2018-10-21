@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/scroll_bar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/scroll_bar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/md_selector_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_selector_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/fab_labels_background.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/fab_labels_background.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/recurrence_bubble_fill.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable/recurrence_bubble_fill.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/list_selector_pressed.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/list_selector_pressed.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/list_selector_focused.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/list_selector_focused.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/md_transparent.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_transparent.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/bg_card.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/md_btn_selected.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_btn_selected.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/category_count_bg.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/category_count_bg.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/fab_labels_background.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/fab_labels_background.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/category_count_bg.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/category_count_bg.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/image_borders.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/image_borders.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/recurrence_bubble_fill.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable/recurrence_bubble_fill.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/md_transparent.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_transparent.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/md_item_selected.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_item_selected.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/indicator_dot_white.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable/indicator_dot_white.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/md_item_selected_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_item_selected_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/switch_thumb.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable/switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/undobar_button.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/undobar_button.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/circle.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/image_borders.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/image_borders.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/gray_circle.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/gray_circle.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/md_selector.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_selector.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/list_selector_focused.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/list_selector_focused.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/gray_circle.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/gray_circle.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/md_btn_selector.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/md_btn_selector_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/md_selector.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_selector.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/scroll_bar.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/scroll_bar.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/branded_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/branded_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/branded_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/branded_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/icon_selector.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/icon_selector.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/md_btn_selector_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/md_btn_selected.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_btn_selected.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/indicator_dot_grey.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable/indicator_dot_grey.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/toolbar_dropshadow.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/toolbar_dropshadow.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/jingles_animation.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/jingles_animation.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/md_item_selected.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_item_selected.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/square.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/square.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/md_item_selected_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_item_selected_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/jingles_animation.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/jingles_animation.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/md_selector_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_selector_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/note_selector.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/note_selector.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/toolbar_dropshadow.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/toolbar_dropshadow.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/switch_thumb.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable/switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/indicator_dot_white.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable/indicator_dot_white.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/icon_selector.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/icon_selector.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/circle.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/bg_card.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/md_btn_selector.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/drawable/md_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/note_selector.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/note_selector.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/square.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/square.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/indicator_dot_grey.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable/indicator_dot_grey.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/undobar_button.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable/undobar_button.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/list_selector_pressed.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable/list_selector_pressed.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    }
+]

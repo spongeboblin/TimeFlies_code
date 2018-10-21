@@ -1,0 +1,858 @@
+[
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_unarchive_grey600_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_unarchive_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_popup.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/bg_popup.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_view_as_list.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_action_view_as_list.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_attachment_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_attachment_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_delete_grey600_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_delete_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_recurrence_bubble_disabled.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable-xxhdpi/ic_recurrence_bubble_disabled.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_delete_red_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_delete_red_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_checkbox_blank_circle_outline_indigo_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_outline_indigo_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_videocam_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_videocam_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_camera_alt_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_camera_alt_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_popup.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/bg_popup.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_filter_remove_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_filter_remove_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_loyalty_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_loyalty_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_3.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/jingles_3.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_delete_grey600_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_delete_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_view_as_list.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_action_view_as_list.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_undo_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_alarm_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_alarm_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_alarm_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_alarm_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_format_list_bulleted_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_format_list_bulleted_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_folder_special_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_folder_special_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_laptop_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_laptop_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_archive_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_archive_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_videocam_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_videocam_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_forward_white_24px.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable-xxhdpi/ic_arrow_forward_white_24px.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_full_open_on_phone.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_navigate_next_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable-xxhdpi/ic_navigate_next_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_call_merge_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_call_merge_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_on.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_action_on.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_format_list_bulleted_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_format_list_bulleted_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_archive_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_archive_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_sort_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_file_document_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_file_document_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_folder_open_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_folder_open_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_image_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_image_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_filter_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_filter_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_6.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/jingles_6.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_format_list_bulleted_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_format_list_bulleted_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_draw.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_action_draw.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_checkbox_marked_circle_outline_indigo_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_checkbox_marked_circle_outline_indigo_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_remind_later_light.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_remind_later_light.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_recurrence_bubble_fill.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable-xxhdpi/ic_recurrence_bubble_fill.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_1.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/jingles_1.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_share_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pin_drop_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_pin_drop_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_checkbox_blank_outline_indigo_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_checkbox_blank_outline_indigo_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_filter_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_filter_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_alarm_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_alarm_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_snooze_reminder.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_snooze_reminder.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_loyalty_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_loyalty_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_1.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/jingles_1.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_file_document_box_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_file_document_box_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_format_align_justify_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_format_align_justify_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_2.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/jingles_2.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_image_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_image_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_logo.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_delete_red_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_delete_red_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_recurrence_bubble_outline_disabled.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable-xxhdpi/ic_recurrence_bubble_outline_disabled.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_file_document_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_file_document_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_lock_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_search_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_redo_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_redo_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_laptop_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_laptop_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_archive_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_archive_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_dark.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/res/drawable-xxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_select_all_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_select_all_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_delete_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_file_document_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_file_document_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_5.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/jingles_5.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_brush_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_brush_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_file_document_box_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_file_document_box_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_alarm_add_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_alarm_add_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_folder_special_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_folder_special_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_eraser_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_eraser_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_drawer.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_6.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/jingles_6.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_photo_camera_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_photo_camera_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_on.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_action_on.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_full_open_on_phone.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_add_circle_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_add_circle_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_format_align_justify_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_format_align_justify_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_unarchive_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_unarchive_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cancel_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_cancel_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_delete_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_delete_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cancel_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_folder_special_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_folder_special_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_undelete_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_undelete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_checkbox_marked_circle_outline_indigo_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_checkbox_marked_circle_outline_indigo_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_archive_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_archive_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_unarchive_grey600_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_unarchive_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/__leak_canary_icon.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/drawable-xxhdpi/__leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_alarm_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_alarm_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_photo_camera_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_photo_camera_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_2.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/jingles_2.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_checkbox_marked_outline_indigo_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_checkbox_marked_outline_indigo_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_light.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/res/drawable-xxhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_recurrence_bubble_outline.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable-xxhdpi/ic_recurrence_bubble_outline.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_sort_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_redo_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_redo_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_select_all_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_select_all_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_delete_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_delete_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_archive_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_archive_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_mic_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_mic_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_call_merge_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_call_merge_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_settings_black_36dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_settings_black_36dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_content_save_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_content_save_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_done_white_24px.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable-xxhdpi/ic_done_white_24px.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_format_align_justify_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_format_align_justify_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_settings_black_36dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_settings_black_36dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_snooze_reminder.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_snooze_reminder.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_drawer.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_camera_alt_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_camera_alt_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_content_save_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_content_save_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_file_document_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_file_document_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_3.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/jingles_3.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_recurrence_bubble_fill.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable-xxhdpi/ic_recurrence_bubble_fill.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_emoticon_sad_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_emoticon_sad_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_attachment_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_attachment_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_navigate_next_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable-xxhdpi/ic_navigate_next_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_format_align_justify_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_format_align_justify_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pin_drop_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_pin_drop_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_4.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/jingles_4.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_archive_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_archive_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_attachment_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_attachment_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_attachment_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_attachment_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pin_drop_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_pin_drop_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_alarm_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_alarm_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_checkbox_blank_outline_indigo_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_checkbox_blank_outline_indigo_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_delete_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_loyalty_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_loyalty_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_share_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_unarchive_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_unarchive_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_material_reminder_time_light.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_material_reminder_time_light.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_select_all_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_select_all_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_brush_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_brush_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pin_drop_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_pin_drop_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_recurrence_bubble_disabled.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable-xxhdpi/ic_recurrence_bubble_disabled.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_select_all_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_select_all_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_emoticon_sad_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_emoticon_sad_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_light.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/res/drawable-xxhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_insert_drive_file_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_insert_drive_file_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_shortcut.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_shortcut.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_recurrence_bubble_outline_disabled.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable-xxhdpi/ic_recurrence_bubble_outline_disabled.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_recurrence_bubble_outline.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/be.billington.calendar.recurrencepicker/library/1.1.1/res/drawable-xxhdpi/ic_recurrence_bubble_outline.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/__leak_canary_icon.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/drawable-xxhdpi/__leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_folder_open_black_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_folder_open_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_checkbox_blank_circle_outline_indigo_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_outline_indigo_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_material_reminder_time_light.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_material_reminder_time_light.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_logo.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cancel_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_draw.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_action_draw.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_search_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_filter_remove_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_filter_remove_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_4.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/jingles_4.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_checkbox_marked_outline_indigo_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_checkbox_marked_outline_indigo_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_forward_white_24px.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable-xxhdpi/ic_arrow_forward_white_24px.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/jingles_5.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/jingles_5.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_remind_later_light.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_remind_later_light.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_loyalty_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_loyalty_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_folder_special_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_folder_special_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_insert_drive_file_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_insert_drive_file_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_eraser_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_eraser_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_dark.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/res/drawable-xxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_alarm_add_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_alarm_add_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_mic_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_mic_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_undo_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_format_list_bulleted_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_format_list_bulleted_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cancel_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_cancel_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_lock_black_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_undelete_white_24dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_undelete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_done_white_24px.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/1.3.0/res/drawable-xxhdpi/ic_done_white_24px.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_add_circle_white_48dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_add_circle_white_48dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_alarm_black_18dp.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-xxhdpi/ic_alarm_black_18dp.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_shortcut.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-xxhdpi/ic_shortcut.png"
+    }
+]

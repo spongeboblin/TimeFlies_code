@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout-v14/md_stub_progress.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout-v14/changelogrowheader_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/res/layout-v14/changelogrowheader_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout-v14/changelogrowheader_material_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/res/layout-v14/changelogrowheader_material_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout-v14/md_stub_progress.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout-v14/changelogrow_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/res/layout-v14/changelogrow_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout-v14/changelogrowheader_material_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/res/layout-v14/changelogrowheader_material_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout-v14/changelogrowheader_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/res/layout-v14/changelogrowheader_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout-v14/changelogrow_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/res/layout-v14/changelogrow_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout-v14/changelogrow_material_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/res/layout-v14/changelogrow_material_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/layout-v14/changelogrow_material_layout.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/changelog/2.0.0/res/layout-v14/changelogrow_material_layout.xml"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.6/res/layout-v14/md_stub_progress_indeterminate.xml"
+    }
+]

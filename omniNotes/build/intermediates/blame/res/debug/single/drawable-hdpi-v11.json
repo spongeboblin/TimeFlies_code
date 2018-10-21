@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-hdpi-v11/__leak_canary_notification.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/drawable-hdpi-v11/__leak_canary_notification.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_stat_notification.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-hdpi-v11/ic_stat_notification.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_stat_literal_icon.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/drawable-hdpi-v11/ic_stat_literal_icon.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/res/merged/debug/drawable-hdpi-v11/__leak_canary_notification.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/drawable-hdpi-v11/__leak_canary_notification.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_stat_notification.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-hdpi-v11/ic_stat_notification.png"
+    },
+    {
+        "merged": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_stat_literal_icon.png",
+        "source": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/drawable-hdpi-v11/ic_stat_literal_icon.png"
+    }
+]

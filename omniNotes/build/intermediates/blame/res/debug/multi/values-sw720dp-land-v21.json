@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v21/values-sw720dp-land-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/values-sw720dp-land-v21/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 48,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop/omniNotes/src/main/res/values-sw720dp-land-v21/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 48,
+                        "endOffset": 983
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v21/values-sw720dp-land-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/values-sw720dp-land-v21/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 48,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/ebao/Downloads/Omni-Notes-develop 5/omniNotes/src/main/res/values-sw720dp-land-v21/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 48,
+                        "endOffset": 983
+                    }
+                }
+            }
+        ]
+    }
+]
